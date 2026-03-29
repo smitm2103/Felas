@@ -1,2 +1,1 @@
-# Felas
-A PHP-based table booking web app for snooker, billiards &amp; pool with an admin dashboard to manage users, bookings, and tables.
+Felas is a web application for booking snooker, billiards, and pool tables online. Built with PHP, HTML, CSS, Bootstrap, and MySQL. Features include a user-friendly booking interface and a full admin dashboard to add, delete, and manage users, tables, and reservations.
